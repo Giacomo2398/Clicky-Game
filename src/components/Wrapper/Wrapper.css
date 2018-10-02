@@ -1,0 +1,15 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background: url('https://wallpaper-house.com/data/out/8/wallpaper2you_240659.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
